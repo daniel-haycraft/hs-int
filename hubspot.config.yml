@@ -1,0 +1,14 @@
+defaultPortal: hs-access-key
+portals:
+  - name: hs-access-key
+    portalId: 6624066
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CI20uJO3MRITAA0AQAAA4G0AQAJYAmEAAPgAwBjCppQDIMDfmBoo7ukMMhS5BN3XowpC9qkNNSvqwcsMAsD6hTo6AAAEQQAAAHgAAAAAAAAAAACAAAAAAAAEAADABwCO8DE8YFAAAEQAYED8GAYAECwDAAAAAAAM_AMAwEIUxORkKJm4shQ6yfd1BckGQAZOC0xKA25hMVIAWgA
+        expiresAt: '2023-10-27T18:38:20.194Z'
+    personalAccessKey: >-
+      CiQ1ZGVkYWFhMC0yNzM3LTQ3MTYtOGI3Ni02ZTVmYWU1MWM2N2MQwqaUAxjA35gaKhkABeaRgmRiwAAetD9ofO1qttxh-g-FzgRGSgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null
