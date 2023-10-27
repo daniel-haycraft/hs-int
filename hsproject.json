@@ -1,5 +1,5 @@
 {
-  "name": "hubspot-int",
+  "name": "hubspot-integration",
   "srcDir": "src",
   "platformVersion": "2023.1"
 }
